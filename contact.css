@@ -1,0 +1,21 @@
+form {
+  max-width: 400px;
+  margin: auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 15px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 8px;
+}
+
+button {
+  background: #0a74da;
+  color: white;
+  padding: 10px;
+  border: none;
+}
